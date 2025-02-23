@@ -31,8 +31,5 @@ These are FindingBrain/MintPi's osu! skins. Original list made by DevenRam and b
 # [Prawilosc vJP without followpoints](https://drive.google.com/file/d/1zVBebKSZ8YXKYW8aLR1b0P68Q1XoZHMa/view?usp=sharing) 
 ![](https://i.imgur.com/etoqF8s.png)
 
-# [- 《CK》 WhiteCat 2.1 ~ old](https://www.mediafire.com/file/slctyhdrt8q7mhw/-_%25E3%2580%258ACK%25E3%2580%258B_WhiteCat_2.1_%257E_old.osk/file)
-![](https://i.imgur.com/rZckbMN.png)
-
 # [SameSkinButNoRingHitCirclesWeirdName](https://drive.google.com/file/d/1cD34DipxTQzeuLhp7Zp1iOIm2G4V_KTt/view?usp=sharing)
 ![](https://i.imgur.com/0lkmF2S.png)
