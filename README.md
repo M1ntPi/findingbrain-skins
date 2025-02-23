@@ -1,5 +1,5 @@
 # findingbrain-skins
-These are FindingBrain/MintPi's osu! skins. Original list made by DevenRam and broiiler for [Mrekk's Osu Skins](https://github.com/DevenRam/mrekk-osu-Skins). Many of these skins are made with [osu! Skin Mixer](https://osu.ppy.sh/community/forums/topics/1458320?n=1) by rednir so please go check their sites out and give them some love.
+These are FindingBrain/MintPi's osu! skins. Original list made by DevenRam and broiiler for [Mrekk's osu! Skins](https://github.com/DevenRam/mrekk-osu-Skins). Many of these skins are made with [osu! Skin Mixer](https://osu.ppy.sh/community/forums/topics/1458320?n=1) by rednir so please go check their sites out and give them some love.
 
 # [ALL SKINS GOOGLE DRIVE FOLDER](https://drive.google.com/file/d/11aIbscsl38a9-ZIyOW4h8JUhYLYRog85/view?usp=sharing)
 ![](https://i.imgur.com/3TCUfce.png)
